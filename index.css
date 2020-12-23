@@ -223,7 +223,6 @@ header{
       background-image: url("back.jpg");
       display: grid;
       grid-template-columns: 1fr;
-      grid-template-rows: repeat(3, 1fr);
       grid-column-gap: 0px;
       grid-row-gap: 0px;
   }
@@ -247,7 +246,6 @@ header{
       margin: 0cm;
       display: grid;
       grid-template-columns: 1fr;
-      grid-template-rows: repeat(2, 1fr);
       grid-column-gap: 0px;
       grid-row-gap: 0px;
   }
