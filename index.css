@@ -230,6 +230,7 @@ header{
     header{
       height: 15%;
       margin: 0cm;
+      margin-top: 50px;
       grid-area: 1 / 1 / 2 / 2;
     }
 
